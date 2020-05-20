@@ -1,0 +1,13 @@
+.\objects\pit.o: Headers\pit.c
+.\objects\pit.o: Headers\pit.h
+.\objects\pit.o: Headers\derivative.h
+.\objects\pit.o: D:\MDK\ARM\PACK\Keil\Kinetis_KEAxx_DFP\1.3.0\Device\Include\SKEAZ1284.h
+.\objects\pit.o: D:\MDK\ARM\ARMCC\Bin\..\include\stdint.h
+.\objects\pit.o: D:\MDK\ARM\PACK\ARM\CMSIS\4.5.0\CMSIS\Include\core_cm0plus.h
+.\objects\pit.o: D:\MDK\ARM\PACK\ARM\CMSIS\4.5.0\CMSIS\Include\core_cmInstr.h
+.\objects\pit.o: D:\MDK\ARM\PACK\ARM\CMSIS\4.5.0\CMSIS\Include\cmsis_armcc.h
+.\objects\pit.o: D:\MDK\ARM\PACK\ARM\CMSIS\4.5.0\CMSIS\Include\core_cmFunc.h
+.\objects\pit.o: D:\MDK\ARM\PACK\Keil\Kinetis_KEAxx_DFP\1.3.0\Device\Include\system_SKEAZ1284.h
+.\objects\pit.o: Headers\typedefs.h
+.\objects\pit.o: Headers\../Sources/project_cfg.h
+.\objects\pit.o: Headers\nvic.h

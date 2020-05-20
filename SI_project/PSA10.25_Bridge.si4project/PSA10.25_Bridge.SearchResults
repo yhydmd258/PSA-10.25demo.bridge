@@ -1,0 +1,5 @@
+---- UART_SetCallback Matches (4 in 4 files) ----
+APP_COMM_Data_UART_Init in APP_COMM_data.c (E:\Project\PSA\PSA2020 demo\Bridge\Dis_bridge2\Sources\APP_Communicate) :     UART_SetCallback(APP_COMM_UART, APP_COMM_Data_IRQHander);
+Max_Ser_Data_I2C_Or_Uart_Init in max_serializer_data.c (E:\Project\PSA\PSA2020 demo\Bridge\Dis_bridge2\Sources\MAXIM_ser) :     UART_SetCallback(MAX_SERIALIZE_UART, Max_Ser_Data_IRQHander);
+uart.c (E:\Project\PSA\PSA2020 demo\Bridge\Dis_bridge2\Headers) line 399 : void UART_SetCallback(UART_MemMapPtr pUART, UART_CallbackType pfnCallback)
+uart.h (E:\Project\PSA\PSA2020 demo\Bridge\Dis_bridge2\Headers) line 622 : void UART_SetCallback(UART_MemMapPtr pUART, UART_CallbackType pfnCallback);

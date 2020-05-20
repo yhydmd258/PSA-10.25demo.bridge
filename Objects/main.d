@@ -1,0 +1,17 @@
+.\objects\main.o: Sources\main.c
+.\objects\main.o: D:\MDK\ARM\ARMCC\Bin\..\include\stdio.h
+.\objects\main.o: Sources\../Headers/derivative.h
+.\objects\main.o: D:\MDK\ARM\PACK\Keil\Kinetis_KEAxx_DFP\1.3.0\Device\Include\SKEAZ1284.h
+.\objects\main.o: D:\MDK\ARM\ARMCC\Bin\..\include\stdint.h
+.\objects\main.o: D:\MDK\ARM\PACK\ARM\CMSIS\4.5.0\CMSIS\Include\core_cm0plus.h
+.\objects\main.o: D:\MDK\ARM\PACK\ARM\CMSIS\4.5.0\CMSIS\Include\core_cmInstr.h
+.\objects\main.o: D:\MDK\ARM\PACK\ARM\CMSIS\4.5.0\CMSIS\Include\cmsis_armcc.h
+.\objects\main.o: D:\MDK\ARM\PACK\ARM\CMSIS\4.5.0\CMSIS\Include\core_cmFunc.h
+.\objects\main.o: D:\MDK\ARM\PACK\Keil\Kinetis_KEAxx_DFP\1.3.0\Device\Include\system_SKEAZ1284.h
+.\objects\main.o: Sources\../Headers/typedefs.h
+.\objects\main.o: Sources\../Headers/../Sources/project_cfg.h
+.\objects\main.o: Sources\../Headers/GPIO.h
+.\objects\main.o: Sources\CLK.h
+.\objects\main.o: D:\MDK\ARM\ARMCC\Bin\..\include\time.h
+.\objects\main.o: Sources\APP_Communicate/APP_COMM_if.h
+.\objects\main.o: Sources\MAXIM_ser/max_serializer_if.h

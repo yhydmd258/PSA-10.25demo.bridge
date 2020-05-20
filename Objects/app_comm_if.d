@@ -1,0 +1,13 @@
+.\objects\app_comm_if.o: Sources\APP_Communicate\APP_COMM_if.c
+.\objects\app_comm_if.o: Sources\APP_Communicate\APP_COMM_if.h
+.\objects\app_comm_if.o: Sources\APP_Communicate\../../Headers/derivative.h
+.\objects\app_comm_if.o: D:\MDK\ARM\PACK\Keil\Kinetis_KEAxx_DFP\1.3.0\Device\Include\SKEAZ1284.h
+.\objects\app_comm_if.o: D:\MDK\ARM\ARMCC\Bin\..\include\stdint.h
+.\objects\app_comm_if.o: D:\MDK\ARM\PACK\ARM\CMSIS\4.5.0\CMSIS\Include\core_cm0plus.h
+.\objects\app_comm_if.o: D:\MDK\ARM\PACK\ARM\CMSIS\4.5.0\CMSIS\Include\core_cmInstr.h
+.\objects\app_comm_if.o: D:\MDK\ARM\PACK\ARM\CMSIS\4.5.0\CMSIS\Include\cmsis_armcc.h
+.\objects\app_comm_if.o: D:\MDK\ARM\PACK\ARM\CMSIS\4.5.0\CMSIS\Include\core_cmFunc.h
+.\objects\app_comm_if.o: D:\MDK\ARM\PACK\Keil\Kinetis_KEAxx_DFP\1.3.0\Device\Include\system_SKEAZ1284.h
+.\objects\app_comm_if.o: Sources\APP_Communicate\../../Headers/typedefs.h
+.\objects\app_comm_if.o: Sources\APP_Communicate\../../Headers/../Sources/project_cfg.h
+.\objects\app_comm_if.o: Sources\APP_Communicate\APP_COMM_data.h

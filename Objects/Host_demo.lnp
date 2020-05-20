@@ -1,0 +1,28 @@
+--cpu Cortex-M0+
+".\objects\clk.o"
+".\objects\main.o"
+".\objects\adc.o"
+".\objects\i2c.o"
+".\objects\ics.o"
+".\objects\kbi.o"
+".\objects\nvic.o"
+".\objects\pit.o"
+".\objects\rtc.o"
+".\objects\wdog.o"
+".\objects\max_serializer_ctrl.o"
+".\objects\max_serializer_data.o"
+".\objects\max_serializer_if.o"
+".\objects\uart.o"
+".\objects\ti_serializer_ctrl.o"
+".\objects\ti_serializer_data.o"
+".\objects\ti_serializer_if.o"
+".\objects\atmel_1189.o"
+".\objects\app_comm_data.o"
+".\objects\app_comm_if.o"
+".\objects\serializer_select.o"
+".\objects\startup_skeaz1284.o"
+".\objects\system_skeaz1284.o"
+--strict --scatter ".\Objects\Host_demo.sct"
+--summary_stderr --info summarysizes --map --xref --callgraph --symbols
+--info sizes --info totals --info unused --info veneers
+--list ".\Listings\Host_demo.map" -o .\Objects\Host_demo.axf
