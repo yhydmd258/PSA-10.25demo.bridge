@@ -264,8 +264,8 @@ static void Max_Ser_Data_I2C_Or_Uart_Init(void)
     Uart_Config.sctrl2settings.bits.bTe=1;  /* Transmitter enable*/
     Uart_Config.sctrl2settings.bits.bRie=1; /* Receiver interrupt enable*/
     Uart_Config.u32SysClkHz = 20000000;     /* Bus clock in Hz*/
-//    Uart_Config.u32Baudrate = 256000;       /* Baud rate*/
-   Uart_Config.u32Baudrate = 9600;       /* Baud rate*/
+    Uart_Config.u32Baudrate = 256000;       /* Baud rate*/
+ //  Uart_Config.u32Baudrate = 9600;       /* Baud rate*/
 //	Uart_Config.u32Baudrate = 115200; 	  /* Baud rate*/
     /*Initialization of UART module*/
     UART_SetCallback(MAX_SERIALIZE_UART, Max_Ser_Data_IRQHander);
@@ -315,7 +315,7 @@ UINT8 Max_Ser_EDID_Cfg_Init(void)
 {
     UINT8 u8ErrorStatus = 0;
 #if 1
-    UINT8 EDID_data[]={0,  255,255,255,255,255,255,0,13,174,   /*1-10*/
+    UINT8 EDID_data[]={0,255,255,255,255,255,255,0,13,174,   /*1-10*/
                         0X36,0X10,0X00,0X00,0X00,0X00,0X1C,0X15,0X01,0X03,     /*11-20*/
                         0X80,0X16,0X0D,0X78,0X0A,0X45,0X35,0X99,0X57,0X4E,    /*21-30*/
                         0X92,0X25,0X1C,0X50,0X54,0X00,0X00,0X00,0X01,0X01,     /*31-40*/

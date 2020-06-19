@@ -1,7 +1,7 @@
 Dependencies for Project 'Host_demo2.0', Target 'Host_demo2.0': (DO NOT MODIFY !)
-F (.\Sources\CLK.c)(0x5B5AD99B)(-c --cpu Cortex-M0+ -g -O0 --apcs=interwork --split_sections-I"E:\Project\PSA\PSA2020 demo\Bridge\Dis_bridge2\RTE"-ID:\MDK\ARM\PACK\ARM\CMSIS\4.5.0\CMSIS\Include-ID:\MDK\ARM\PACK\Keil\Kinetis_KEAxx_DFP\1.3.0\Device\Include-D__UVISION_VERSION="521" -D_RTE_ -DSKEAZ128xxx4-o .\objects\clk.o --omf_browse .\objects\clk.crf --depend .\objects\clk.d)
-I (Sources\CLK.h)(0x5B5AD99B)
-I (Sources\../Headers/derivative.h)(0x5B5AD99B)
+F (.\Sources\CLK.c)(0x5EC4DE21)(-c --cpu Cortex-M0+ -g -O0 --apcs=interwork --split_sections-I"E:\Project\PSA\PSA2020 demo\Bridge\Dis_bridge2\RTE"-ID:\MDK\ARM\PACK\ARM\CMSIS\4.5.0\CMSIS\Include-ID:\MDK\ARM\PACK\Keil\Kinetis_KEAxx_DFP\1.3.0\Device\Include-D__UVISION_VERSION="521" -D_RTE_ -DSKEAZ128xxx4-o .\objects\clk.o --omf_browse .\objects\clk.crf --depend .\objects\clk.d)
+I (Sources\CLK.h)(0x5EC4DE21)
+I (Sources\../Headers/derivative.h)(0x5EC4DE1F)
 I (D:\MDK\ARM\PACK\Keil\Kinetis_KEAxx_DFP\1.3.0\Device\Include\SKEAZ1284.h)(0x585B7C0A)
 I (D:\MDK\ARM\ARMCC\include\stdint.h)(0x574E3E26)
 I (D:\MDK\ARM\PACK\ARM\CMSIS\4.5.0\CMSIS\Include\core_cm0plus.h)(0x5625B70C)
@@ -9,12 +9,12 @@ I (D:\MDK\ARM\PACK\ARM\CMSIS\4.5.0\CMSIS\Include\core_cmInstr.h)(0x5625A350)
 I (D:\MDK\ARM\PACK\ARM\CMSIS\4.5.0\CMSIS\Include\cmsis_armcc.h)(0x5625A350)
 I (D:\MDK\ARM\PACK\ARM\CMSIS\4.5.0\CMSIS\Include\core_cmFunc.h)(0x5625A350)
 I (D:\MDK\ARM\PACK\Keil\Kinetis_KEAxx_DFP\1.3.0\Device\Include\system_SKEAZ1284.h)(0x5754CC5A)
-I (Sources\../Headers/typedefs.h)(0x5B5AD99B)
-I (Sources\../Headers/../Sources/project_cfg.h)(0x5E8EB773)
-I (Sources\../Headers/ics.h)(0x5B5AD99B)
-F (.\Sources\main.c)(0x5E8D8CC1)(-c --cpu Cortex-M0+ -g -O0 --apcs=interwork --split_sections-I"E:\Project\PSA\PSA2020 demo\Bridge\Dis_bridge2\RTE"-ID:\MDK\ARM\PACK\ARM\CMSIS\4.5.0\CMSIS\Include-ID:\MDK\ARM\PACK\Keil\Kinetis_KEAxx_DFP\1.3.0\Device\Include-D__UVISION_VERSION="521" -D_RTE_ -DSKEAZ128xxx4-o .\objects\main.o --omf_browse .\objects\main.crf --depend .\objects\main.d)
+I (Sources\../Headers/typedefs.h)(0x5EC4DE1F)
+I (Sources\../Headers/../Sources/project_cfg.h)(0x5EC4DE21)
+I (Sources\../Headers/ics.h)(0x5EC4DE1F)
+F (.\Sources\main.c)(0x5EC4DE21)(-c --cpu Cortex-M0+ -g -O0 --apcs=interwork --split_sections-I"E:\Project\PSA\PSA2020 demo\Bridge\Dis_bridge2\RTE"-ID:\MDK\ARM\PACK\ARM\CMSIS\4.5.0\CMSIS\Include-ID:\MDK\ARM\PACK\Keil\Kinetis_KEAxx_DFP\1.3.0\Device\Include-D__UVISION_VERSION="521" -D_RTE_ -DSKEAZ128xxx4-o .\objects\main.o --omf_browse .\objects\main.crf --depend .\objects\main.d)
 I (D:\MDK\ARM\ARMCC\include\stdio.h)(0x5E6B3AC0)
-I (Sources\../Headers/derivative.h)(0x5B5AD99B)
+I (Sources\../Headers/derivative.h)(0x5EC4DE1F)
 I (D:\MDK\ARM\PACK\Keil\Kinetis_KEAxx_DFP\1.3.0\Device\Include\SKEAZ1284.h)(0x585B7C0A)
 I (D:\MDK\ARM\ARMCC\include\stdint.h)(0x574E3E26)
 I (D:\MDK\ARM\PACK\ARM\CMSIS\4.5.0\CMSIS\Include\core_cm0plus.h)(0x5625B70C)
@@ -22,16 +22,16 @@ I (D:\MDK\ARM\PACK\ARM\CMSIS\4.5.0\CMSIS\Include\core_cmInstr.h)(0x5625A350)
 I (D:\MDK\ARM\PACK\ARM\CMSIS\4.5.0\CMSIS\Include\cmsis_armcc.h)(0x5625A350)
 I (D:\MDK\ARM\PACK\ARM\CMSIS\4.5.0\CMSIS\Include\core_cmFunc.h)(0x5625A350)
 I (D:\MDK\ARM\PACK\Keil\Kinetis_KEAxx_DFP\1.3.0\Device\Include\system_SKEAZ1284.h)(0x5754CC5A)
-I (Sources\../Headers/typedefs.h)(0x5B5AD99B)
-I (Sources\../Headers/../Sources/project_cfg.h)(0x5E8EB773)
-I (Sources\../Headers/GPIO.h)(0x5E9592DB)
-I (Sources\CLK.h)(0x5B5AD99B)
+I (Sources\../Headers/typedefs.h)(0x5EC4DE1F)
+I (Sources\../Headers/../Sources/project_cfg.h)(0x5EC4DE21)
+I (Sources\../Headers/GPIO.h)(0x5EC4DE1F)
+I (Sources\CLK.h)(0x5EC4DE21)
 I (D:\MDK\ARM\ARMCC\include\time.h)(0x574E3E26)
-I (Sources\APP_Communicate/APP_COMM_if.h)(0x5E8D8CF7)
-I (Sources\MAXIM_ser/max_serializer_if.h)(0x5B5AD99B)
-F (.\Headers\adc.c)(0x5B5AD99B)(-c --cpu Cortex-M0+ -g -O0 --apcs=interwork --split_sections-I"E:\Project\PSA\PSA2020 demo\Bridge\Dis_bridge2\RTE"-ID:\MDK\ARM\PACK\ARM\CMSIS\4.5.0\CMSIS\Include-ID:\MDK\ARM\PACK\Keil\Kinetis_KEAxx_DFP\1.3.0\Device\Include-D__UVISION_VERSION="521" -D_RTE_ -DSKEAZ128xxx4-o .\objects\adc.o --omf_browse .\objects\adc.crf --depend .\objects\adc.d)
-I (Headers\adc.h)(0x5B5AD99B)
-I (Headers\derivative.h)(0x5B5AD99B)
+I (Sources\APP_Communicate/APP_COMM_if.h)(0x5EC4DE21)
+I (Sources\MAXIM_ser/max_serializer_if.h)(0x5EC4DE21)
+F (.\Headers\adc.c)(0x5EC4DE1F)(-c --cpu Cortex-M0+ -g -O0 --apcs=interwork --split_sections-I"E:\Project\PSA\PSA2020 demo\Bridge\Dis_bridge2\RTE"-ID:\MDK\ARM\PACK\ARM\CMSIS\4.5.0\CMSIS\Include-ID:\MDK\ARM\PACK\Keil\Kinetis_KEAxx_DFP\1.3.0\Device\Include-D__UVISION_VERSION="521" -D_RTE_ -DSKEAZ128xxx4-o .\objects\adc.o --omf_browse .\objects\adc.crf --depend .\objects\adc.d)
+I (Headers\adc.h)(0x5EC4DE1F)
+I (Headers\derivative.h)(0x5EC4DE1F)
 I (D:\MDK\ARM\PACK\Keil\Kinetis_KEAxx_DFP\1.3.0\Device\Include\SKEAZ1284.h)(0x585B7C0A)
 I (D:\MDK\ARM\ARMCC\include\stdint.h)(0x574E3E26)
 I (D:\MDK\ARM\PACK\ARM\CMSIS\4.5.0\CMSIS\Include\core_cm0plus.h)(0x5625B70C)
@@ -39,12 +39,12 @@ I (D:\MDK\ARM\PACK\ARM\CMSIS\4.5.0\CMSIS\Include\core_cmInstr.h)(0x5625A350)
 I (D:\MDK\ARM\PACK\ARM\CMSIS\4.5.0\CMSIS\Include\cmsis_armcc.h)(0x5625A350)
 I (D:\MDK\ARM\PACK\ARM\CMSIS\4.5.0\CMSIS\Include\core_cmFunc.h)(0x5625A350)
 I (D:\MDK\ARM\PACK\Keil\Kinetis_KEAxx_DFP\1.3.0\Device\Include\system_SKEAZ1284.h)(0x5754CC5A)
-I (Headers\typedefs.h)(0x5B5AD99B)
-I (Headers\../Sources/project_cfg.h)(0x5E8EB773)
-I (Headers\nvic.h)(0x5B5AD99B)
-F (.\Headers\i2c.c)(0x5B5AD99B)(-c --cpu Cortex-M0+ -g -O0 --apcs=interwork --split_sections-I"E:\Project\PSA\PSA2020 demo\Bridge\Dis_bridge2\RTE"-ID:\MDK\ARM\PACK\ARM\CMSIS\4.5.0\CMSIS\Include-ID:\MDK\ARM\PACK\Keil\Kinetis_KEAxx_DFP\1.3.0\Device\Include-D__UVISION_VERSION="521" -D_RTE_ -DSKEAZ128xxx4-o .\objects\i2c.o --omf_browse .\objects\i2c.crf --depend .\objects\i2c.d)
-I (Headers\I2c.h)(0x5B5AD99B)
-I (Headers\derivative.h)(0x5B5AD99B)
+I (Headers\typedefs.h)(0x5EC4DE1F)
+I (Headers\../Sources/project_cfg.h)(0x5EC4DE21)
+I (Headers\nvic.h)(0x5EC4DE1F)
+F (.\Headers\i2c.c)(0x5EC4DE1F)(-c --cpu Cortex-M0+ -g -O0 --apcs=interwork --split_sections-I"E:\Project\PSA\PSA2020 demo\Bridge\Dis_bridge2\RTE"-ID:\MDK\ARM\PACK\ARM\CMSIS\4.5.0\CMSIS\Include-ID:\MDK\ARM\PACK\Keil\Kinetis_KEAxx_DFP\1.3.0\Device\Include-D__UVISION_VERSION="521" -D_RTE_ -DSKEAZ128xxx4-o .\objects\i2c.o --omf_browse .\objects\i2c.crf --depend .\objects\i2c.d)
+I (Headers\I2c.h)(0x5EC4DE1F)
+I (Headers\derivative.h)(0x5EC4DE1F)
 I (D:\MDK\ARM\PACK\Keil\Kinetis_KEAxx_DFP\1.3.0\Device\Include\SKEAZ1284.h)(0x585B7C0A)
 I (D:\MDK\ARM\ARMCC\include\stdint.h)(0x574E3E26)
 I (D:\MDK\ARM\PACK\ARM\CMSIS\4.5.0\CMSIS\Include\core_cm0plus.h)(0x5625B70C)
@@ -52,12 +52,12 @@ I (D:\MDK\ARM\PACK\ARM\CMSIS\4.5.0\CMSIS\Include\core_cmInstr.h)(0x5625A350)
 I (D:\MDK\ARM\PACK\ARM\CMSIS\4.5.0\CMSIS\Include\cmsis_armcc.h)(0x5625A350)
 I (D:\MDK\ARM\PACK\ARM\CMSIS\4.5.0\CMSIS\Include\core_cmFunc.h)(0x5625A350)
 I (D:\MDK\ARM\PACK\Keil\Kinetis_KEAxx_DFP\1.3.0\Device\Include\system_SKEAZ1284.h)(0x5754CC5A)
-I (Headers\typedefs.h)(0x5B5AD99B)
-I (Headers\../Sources/project_cfg.h)(0x5E8EB773)
-I (Headers\nvic.h)(0x5B5AD99B)
-F (.\Headers\ics.c)(0x5B5AD99B)(-c --cpu Cortex-M0+ -g -O0 --apcs=interwork --split_sections-I"E:\Project\PSA\PSA2020 demo\Bridge\Dis_bridge2\RTE"-ID:\MDK\ARM\PACK\ARM\CMSIS\4.5.0\CMSIS\Include-ID:\MDK\ARM\PACK\Keil\Kinetis_KEAxx_DFP\1.3.0\Device\Include-D__UVISION_VERSION="521" -D_RTE_ -DSKEAZ128xxx4-o .\objects\ics.o --omf_browse .\objects\ics.crf --depend .\objects\ics.d)
-I (Headers\ics.h)(0x5B5AD99B)
-I (Headers\derivative.h)(0x5B5AD99B)
+I (Headers\typedefs.h)(0x5EC4DE1F)
+I (Headers\../Sources/project_cfg.h)(0x5EC4DE21)
+I (Headers\nvic.h)(0x5EC4DE1F)
+F (.\Headers\ics.c)(0x5EC4DE1F)(-c --cpu Cortex-M0+ -g -O0 --apcs=interwork --split_sections-I"E:\Project\PSA\PSA2020 demo\Bridge\Dis_bridge2\RTE"-ID:\MDK\ARM\PACK\ARM\CMSIS\4.5.0\CMSIS\Include-ID:\MDK\ARM\PACK\Keil\Kinetis_KEAxx_DFP\1.3.0\Device\Include-D__UVISION_VERSION="521" -D_RTE_ -DSKEAZ128xxx4-o .\objects\ics.o --omf_browse .\objects\ics.crf --depend .\objects\ics.d)
+I (Headers\ics.h)(0x5EC4DE1F)
+I (Headers\derivative.h)(0x5EC4DE1F)
 I (D:\MDK\ARM\PACK\Keil\Kinetis_KEAxx_DFP\1.3.0\Device\Include\SKEAZ1284.h)(0x585B7C0A)
 I (D:\MDK\ARM\ARMCC\include\stdint.h)(0x574E3E26)
 I (D:\MDK\ARM\PACK\ARM\CMSIS\4.5.0\CMSIS\Include\core_cm0plus.h)(0x5625B70C)
@@ -65,11 +65,11 @@ I (D:\MDK\ARM\PACK\ARM\CMSIS\4.5.0\CMSIS\Include\core_cmInstr.h)(0x5625A350)
 I (D:\MDK\ARM\PACK\ARM\CMSIS\4.5.0\CMSIS\Include\cmsis_armcc.h)(0x5625A350)
 I (D:\MDK\ARM\PACK\ARM\CMSIS\4.5.0\CMSIS\Include\core_cmFunc.h)(0x5625A350)
 I (D:\MDK\ARM\PACK\Keil\Kinetis_KEAxx_DFP\1.3.0\Device\Include\system_SKEAZ1284.h)(0x5754CC5A)
-I (Headers\typedefs.h)(0x5B5AD99B)
-I (Headers\../Sources/project_cfg.h)(0x5E8EB773)
-F (.\Headers\kbi.c)(0x5B5AD99B)(-c --cpu Cortex-M0+ -g -O0 --apcs=interwork --split_sections-I"E:\Project\PSA\PSA2020 demo\Bridge\Dis_bridge2\RTE"-ID:\MDK\ARM\PACK\ARM\CMSIS\4.5.0\CMSIS\Include-ID:\MDK\ARM\PACK\Keil\Kinetis_KEAxx_DFP\1.3.0\Device\Include-D__UVISION_VERSION="521" -D_RTE_ -DSKEAZ128xxx4-o .\objects\kbi.o --omf_browse .\objects\kbi.crf --depend .\objects\kbi.d)
-I (Headers\kbi.h)(0x5B5AD99B)
-I (Headers\derivative.h)(0x5B5AD99B)
+I (Headers\typedefs.h)(0x5EC4DE1F)
+I (Headers\../Sources/project_cfg.h)(0x5EC4DE21)
+F (.\Headers\kbi.c)(0x5EC4DE1F)(-c --cpu Cortex-M0+ -g -O0 --apcs=interwork --split_sections-I"E:\Project\PSA\PSA2020 demo\Bridge\Dis_bridge2\RTE"-ID:\MDK\ARM\PACK\ARM\CMSIS\4.5.0\CMSIS\Include-ID:\MDK\ARM\PACK\Keil\Kinetis_KEAxx_DFP\1.3.0\Device\Include-D__UVISION_VERSION="521" -D_RTE_ -DSKEAZ128xxx4-o .\objects\kbi.o --omf_browse .\objects\kbi.crf --depend .\objects\kbi.d)
+I (Headers\kbi.h)(0x5EC4DE1F)
+I (Headers\derivative.h)(0x5EC4DE1F)
 I (D:\MDK\ARM\PACK\Keil\Kinetis_KEAxx_DFP\1.3.0\Device\Include\SKEAZ1284.h)(0x585B7C0A)
 I (D:\MDK\ARM\ARMCC\include\stdint.h)(0x574E3E26)
 I (D:\MDK\ARM\PACK\ARM\CMSIS\4.5.0\CMSIS\Include\core_cm0plus.h)(0x5625B70C)
@@ -77,12 +77,12 @@ I (D:\MDK\ARM\PACK\ARM\CMSIS\4.5.0\CMSIS\Include\core_cmInstr.h)(0x5625A350)
 I (D:\MDK\ARM\PACK\ARM\CMSIS\4.5.0\CMSIS\Include\cmsis_armcc.h)(0x5625A350)
 I (D:\MDK\ARM\PACK\ARM\CMSIS\4.5.0\CMSIS\Include\core_cmFunc.h)(0x5625A350)
 I (D:\MDK\ARM\PACK\Keil\Kinetis_KEAxx_DFP\1.3.0\Device\Include\system_SKEAZ1284.h)(0x5754CC5A)
-I (Headers\typedefs.h)(0x5B5AD99B)
-I (Headers\../Sources/project_cfg.h)(0x5E8EB773)
-I (Headers\nvic.h)(0x5B5AD99B)
-F (.\Headers\nvic.c)(0x5B5AD99B)(-c --cpu Cortex-M0+ -g -O0 --apcs=interwork --split_sections-I"E:\Project\PSA\PSA2020 demo\Bridge\Dis_bridge2\RTE"-ID:\MDK\ARM\PACK\ARM\CMSIS\4.5.0\CMSIS\Include-ID:\MDK\ARM\PACK\Keil\Kinetis_KEAxx_DFP\1.3.0\Device\Include-D__UVISION_VERSION="521" -D_RTE_ -DSKEAZ128xxx4-o .\objects\nvic.o --omf_browse .\objects\nvic.crf --depend .\objects\nvic.d)
-I (Headers\nvic.h)(0x5B5AD99B)
-I (Headers\derivative.h)(0x5B5AD99B)
+I (Headers\typedefs.h)(0x5EC4DE1F)
+I (Headers\../Sources/project_cfg.h)(0x5EC4DE21)
+I (Headers\nvic.h)(0x5EC4DE1F)
+F (.\Headers\nvic.c)(0x5EC4DE1F)(-c --cpu Cortex-M0+ -g -O0 --apcs=interwork --split_sections-I"E:\Project\PSA\PSA2020 demo\Bridge\Dis_bridge2\RTE"-ID:\MDK\ARM\PACK\ARM\CMSIS\4.5.0\CMSIS\Include-ID:\MDK\ARM\PACK\Keil\Kinetis_KEAxx_DFP\1.3.0\Device\Include-D__UVISION_VERSION="521" -D_RTE_ -DSKEAZ128xxx4-o .\objects\nvic.o --omf_browse .\objects\nvic.crf --depend .\objects\nvic.d)
+I (Headers\nvic.h)(0x5EC4DE1F)
+I (Headers\derivative.h)(0x5EC4DE1F)
 I (D:\MDK\ARM\PACK\Keil\Kinetis_KEAxx_DFP\1.3.0\Device\Include\SKEAZ1284.h)(0x585B7C0A)
 I (D:\MDK\ARM\ARMCC\include\stdint.h)(0x574E3E26)
 I (D:\MDK\ARM\PACK\ARM\CMSIS\4.5.0\CMSIS\Include\core_cm0plus.h)(0x5625B70C)
@@ -90,11 +90,11 @@ I (D:\MDK\ARM\PACK\ARM\CMSIS\4.5.0\CMSIS\Include\core_cmInstr.h)(0x5625A350)
 I (D:\MDK\ARM\PACK\ARM\CMSIS\4.5.0\CMSIS\Include\cmsis_armcc.h)(0x5625A350)
 I (D:\MDK\ARM\PACK\ARM\CMSIS\4.5.0\CMSIS\Include\core_cmFunc.h)(0x5625A350)
 I (D:\MDK\ARM\PACK\Keil\Kinetis_KEAxx_DFP\1.3.0\Device\Include\system_SKEAZ1284.h)(0x5754CC5A)
-I (Headers\typedefs.h)(0x5B5AD99B)
-I (Headers\../Sources/project_cfg.h)(0x5E8EB773)
-F (.\Headers\pit.c)(0x5B5AD99B)(-c --cpu Cortex-M0+ -g -O0 --apcs=interwork --split_sections-I"E:\Project\PSA\PSA2020 demo\Bridge\Dis_bridge2\RTE"-ID:\MDK\ARM\PACK\ARM\CMSIS\4.5.0\CMSIS\Include-ID:\MDK\ARM\PACK\Keil\Kinetis_KEAxx_DFP\1.3.0\Device\Include-D__UVISION_VERSION="521" -D_RTE_ -DSKEAZ128xxx4-o .\objects\pit.o --omf_browse .\objects\pit.crf --depend .\objects\pit.d)
-I (Headers\pit.h)(0x5B5AD99B)
-I (Headers\derivative.h)(0x5B5AD99B)
+I (Headers\typedefs.h)(0x5EC4DE1F)
+I (Headers\../Sources/project_cfg.h)(0x5EC4DE21)
+F (.\Headers\pit.c)(0x5EC4DE1F)(-c --cpu Cortex-M0+ -g -O0 --apcs=interwork --split_sections-I"E:\Project\PSA\PSA2020 demo\Bridge\Dis_bridge2\RTE"-ID:\MDK\ARM\PACK\ARM\CMSIS\4.5.0\CMSIS\Include-ID:\MDK\ARM\PACK\Keil\Kinetis_KEAxx_DFP\1.3.0\Device\Include-D__UVISION_VERSION="521" -D_RTE_ -DSKEAZ128xxx4-o .\objects\pit.o --omf_browse .\objects\pit.crf --depend .\objects\pit.d)
+I (Headers\pit.h)(0x5EC4DE1F)
+I (Headers\derivative.h)(0x5EC4DE1F)
 I (D:\MDK\ARM\PACK\Keil\Kinetis_KEAxx_DFP\1.3.0\Device\Include\SKEAZ1284.h)(0x585B7C0A)
 I (D:\MDK\ARM\ARMCC\include\stdint.h)(0x574E3E26)
 I (D:\MDK\ARM\PACK\ARM\CMSIS\4.5.0\CMSIS\Include\core_cm0plus.h)(0x5625B70C)
@@ -102,12 +102,12 @@ I (D:\MDK\ARM\PACK\ARM\CMSIS\4.5.0\CMSIS\Include\core_cmInstr.h)(0x5625A350)
 I (D:\MDK\ARM\PACK\ARM\CMSIS\4.5.0\CMSIS\Include\cmsis_armcc.h)(0x5625A350)
 I (D:\MDK\ARM\PACK\ARM\CMSIS\4.5.0\CMSIS\Include\core_cmFunc.h)(0x5625A350)
 I (D:\MDK\ARM\PACK\Keil\Kinetis_KEAxx_DFP\1.3.0\Device\Include\system_SKEAZ1284.h)(0x5754CC5A)
-I (Headers\typedefs.h)(0x5B5AD99B)
-I (Headers\../Sources/project_cfg.h)(0x5E8EB773)
-I (Headers\nvic.h)(0x5B5AD99B)
-F (.\Headers\rtc.c)(0x5B5AD99B)(-c --cpu Cortex-M0+ -g -O0 --apcs=interwork --split_sections-I"E:\Project\PSA\PSA2020 demo\Bridge\Dis_bridge2\RTE"-ID:\MDK\ARM\PACK\ARM\CMSIS\4.5.0\CMSIS\Include-ID:\MDK\ARM\PACK\Keil\Kinetis_KEAxx_DFP\1.3.0\Device\Include-D__UVISION_VERSION="521" -D_RTE_ -DSKEAZ128xxx4-o .\objects\rtc.o --omf_browse .\objects\rtc.crf --depend .\objects\rtc.d)
-I (Headers\rtc.h)(0x5B5AD99B)
-I (Headers\derivative.h)(0x5B5AD99B)
+I (Headers\typedefs.h)(0x5EC4DE1F)
+I (Headers\../Sources/project_cfg.h)(0x5EC4DE21)
+I (Headers\nvic.h)(0x5EC4DE1F)
+F (.\Headers\rtc.c)(0x5EC4DE1F)(-c --cpu Cortex-M0+ -g -O0 --apcs=interwork --split_sections-I"E:\Project\PSA\PSA2020 demo\Bridge\Dis_bridge2\RTE"-ID:\MDK\ARM\PACK\ARM\CMSIS\4.5.0\CMSIS\Include-ID:\MDK\ARM\PACK\Keil\Kinetis_KEAxx_DFP\1.3.0\Device\Include-D__UVISION_VERSION="521" -D_RTE_ -DSKEAZ128xxx4-o .\objects\rtc.o --omf_browse .\objects\rtc.crf --depend .\objects\rtc.d)
+I (Headers\rtc.h)(0x5EC4DE1F)
+I (Headers\derivative.h)(0x5EC4DE1F)
 I (D:\MDK\ARM\PACK\Keil\Kinetis_KEAxx_DFP\1.3.0\Device\Include\SKEAZ1284.h)(0x585B7C0A)
 I (D:\MDK\ARM\ARMCC\include\stdint.h)(0x574E3E26)
 I (D:\MDK\ARM\PACK\ARM\CMSIS\4.5.0\CMSIS\Include\core_cm0plus.h)(0x5625B70C)
@@ -115,12 +115,12 @@ I (D:\MDK\ARM\PACK\ARM\CMSIS\4.5.0\CMSIS\Include\core_cmInstr.h)(0x5625A350)
 I (D:\MDK\ARM\PACK\ARM\CMSIS\4.5.0\CMSIS\Include\cmsis_armcc.h)(0x5625A350)
 I (D:\MDK\ARM\PACK\ARM\CMSIS\4.5.0\CMSIS\Include\core_cmFunc.h)(0x5625A350)
 I (D:\MDK\ARM\PACK\Keil\Kinetis_KEAxx_DFP\1.3.0\Device\Include\system_SKEAZ1284.h)(0x5754CC5A)
-I (Headers\typedefs.h)(0x5B5AD99B)
-I (Headers\../Sources/project_cfg.h)(0x5E8EB773)
-I (Headers\nvic.h)(0x5B5AD99B)
-F (.\Headers\wdog.c)(0x5B5AD99B)(-c --cpu Cortex-M0+ -g -O0 --apcs=interwork --split_sections-I"E:\Project\PSA\PSA2020 demo\Bridge\Dis_bridge2\RTE"-ID:\MDK\ARM\PACK\ARM\CMSIS\4.5.0\CMSIS\Include-ID:\MDK\ARM\PACK\Keil\Kinetis_KEAxx_DFP\1.3.0\Device\Include-D__UVISION_VERSION="521" -D_RTE_ -DSKEAZ128xxx4-o .\objects\wdog.o --omf_browse .\objects\wdog.crf --depend .\objects\wdog.d)
-I (Headers\wdog.h)(0x5B5AD99B)
-I (Headers\derivative.h)(0x5B5AD99B)
+I (Headers\typedefs.h)(0x5EC4DE1F)
+I (Headers\../Sources/project_cfg.h)(0x5EC4DE21)
+I (Headers\nvic.h)(0x5EC4DE1F)
+F (.\Headers\wdog.c)(0x5EC4DE1F)(-c --cpu Cortex-M0+ -g -O0 --apcs=interwork --split_sections-I"E:\Project\PSA\PSA2020 demo\Bridge\Dis_bridge2\RTE"-ID:\MDK\ARM\PACK\ARM\CMSIS\4.5.0\CMSIS\Include-ID:\MDK\ARM\PACK\Keil\Kinetis_KEAxx_DFP\1.3.0\Device\Include-D__UVISION_VERSION="521" -D_RTE_ -DSKEAZ128xxx4-o .\objects\wdog.o --omf_browse .\objects\wdog.crf --depend .\objects\wdog.d)
+I (Headers\wdog.h)(0x5EC4DE1F)
+I (Headers\derivative.h)(0x5EC4DE1F)
 I (D:\MDK\ARM\PACK\Keil\Kinetis_KEAxx_DFP\1.3.0\Device\Include\SKEAZ1284.h)(0x585B7C0A)
 I (D:\MDK\ARM\ARMCC\include\stdint.h)(0x574E3E26)
 I (D:\MDK\ARM\PACK\ARM\CMSIS\4.5.0\CMSIS\Include\core_cm0plus.h)(0x5625B70C)
@@ -128,11 +128,11 @@ I (D:\MDK\ARM\PACK\ARM\CMSIS\4.5.0\CMSIS\Include\core_cmInstr.h)(0x5625A350)
 I (D:\MDK\ARM\PACK\ARM\CMSIS\4.5.0\CMSIS\Include\cmsis_armcc.h)(0x5625A350)
 I (D:\MDK\ARM\PACK\ARM\CMSIS\4.5.0\CMSIS\Include\core_cmFunc.h)(0x5625A350)
 I (D:\MDK\ARM\PACK\Keil\Kinetis_KEAxx_DFP\1.3.0\Device\Include\system_SKEAZ1284.h)(0x5754CC5A)
-I (Headers\typedefs.h)(0x5B5AD99B)
-I (Headers\../Sources/project_cfg.h)(0x5E8EB773)
-I (Headers\nvic.h)(0x5B5AD99B)
-F (.\Sources\MAXIM_ser\max_serializer_ctrl.c)(0x5E965C6E)(-c --cpu Cortex-M0+ -g -O0 --apcs=interwork --split_sections-I"E:\Project\PSA\PSA2020 demo\Bridge\Dis_bridge2\RTE"-ID:\MDK\ARM\PACK\ARM\CMSIS\4.5.0\CMSIS\Include-ID:\MDK\ARM\PACK\Keil\Kinetis_KEAxx_DFP\1.3.0\Device\Include-D__UVISION_VERSION="521" -D_RTE_ -DSKEAZ128xxx4-o .\objects\max_serializer_ctrl.o --omf_browse .\objects\max_serializer_ctrl.crf --depend .\objects\max_serializer_ctrl.d)
-I (Sources\MAXIM_ser\../../Headers/derivative.h)(0x5B5AD99B)
+I (Headers\typedefs.h)(0x5EC4DE1F)
+I (Headers\../Sources/project_cfg.h)(0x5EC4DE21)
+I (Headers\nvic.h)(0x5EC4DE1F)
+F (.\Sources\MAXIM_ser\max_serializer_ctrl.c)(0x5EC4DE21)(-c --cpu Cortex-M0+ -g -O0 --apcs=interwork --split_sections-I"E:\Project\PSA\PSA2020 demo\Bridge\Dis_bridge2\RTE"-ID:\MDK\ARM\PACK\ARM\CMSIS\4.5.0\CMSIS\Include-ID:\MDK\ARM\PACK\Keil\Kinetis_KEAxx_DFP\1.3.0\Device\Include-D__UVISION_VERSION="521" -D_RTE_ -DSKEAZ128xxx4-o .\objects\max_serializer_ctrl.o --omf_browse .\objects\max_serializer_ctrl.crf --depend .\objects\max_serializer_ctrl.d)
+I (Sources\MAXIM_ser\../../Headers/derivative.h)(0x5EC4DE1F)
 I (D:\MDK\ARM\PACK\Keil\Kinetis_KEAxx_DFP\1.3.0\Device\Include\SKEAZ1284.h)(0x585B7C0A)
 I (D:\MDK\ARM\ARMCC\include\stdint.h)(0x574E3E26)
 I (D:\MDK\ARM\PACK\ARM\CMSIS\4.5.0\CMSIS\Include\core_cm0plus.h)(0x5625B70C)
@@ -140,15 +140,15 @@ I (D:\MDK\ARM\PACK\ARM\CMSIS\4.5.0\CMSIS\Include\core_cmInstr.h)(0x5625A350)
 I (D:\MDK\ARM\PACK\ARM\CMSIS\4.5.0\CMSIS\Include\cmsis_armcc.h)(0x5625A350)
 I (D:\MDK\ARM\PACK\ARM\CMSIS\4.5.0\CMSIS\Include\core_cmFunc.h)(0x5625A350)
 I (D:\MDK\ARM\PACK\Keil\Kinetis_KEAxx_DFP\1.3.0\Device\Include\system_SKEAZ1284.h)(0x5754CC5A)
-I (Sources\MAXIM_ser\../../Headers/typedefs.h)(0x5B5AD99B)
-I (Sources\MAXIM_ser\../../Headers/../Sources/project_cfg.h)(0x5E8EB773)
-I (Sources\MAXIM_ser\max_serializer_if.h)(0x5B5AD99B)
-I (Sources\MAXIM_ser\max_serializer_ctrl.h)(0x5B5AD99B)
-I (Sources\MAXIM_ser\max_serializer_data.h)(0x5BFD21C4)
-I (Sources\MAXIM_ser\../../Headers/GPIO.h)(0x5E9592DB)
-I (Sources\MAXIM_ser\../command.h)(0x5B5AD99B)
-F (.\Sources\MAXIM_ser\max_serializer_data.c)(0x5E982FA1)(-c --cpu Cortex-M0+ -g -O0 --apcs=interwork --split_sections-I"E:\Project\PSA\PSA2020 demo\Bridge\Dis_bridge2\RTE"-ID:\MDK\ARM\PACK\ARM\CMSIS\4.5.0\CMSIS\Include-ID:\MDK\ARM\PACK\Keil\Kinetis_KEAxx_DFP\1.3.0\Device\Include-D__UVISION_VERSION="521" -D_RTE_ -DSKEAZ128xxx4-o .\objects\max_serializer_data.o --omf_browse .\objects\max_serializer_data.crf --depend .\objects\max_serializer_data.d)
-I (Sources\MAXIM_ser\../../Headers/derivative.h)(0x5B5AD99B)
+I (Sources\MAXIM_ser\../../Headers/typedefs.h)(0x5EC4DE1F)
+I (Sources\MAXIM_ser\../../Headers/../Sources/project_cfg.h)(0x5EC4DE21)
+I (Sources\MAXIM_ser\max_serializer_if.h)(0x5EC4DE21)
+I (Sources\MAXIM_ser\max_serializer_ctrl.h)(0x5EC4DE21)
+I (Sources\MAXIM_ser\max_serializer_data.h)(0x5EC4DE21)
+I (Sources\MAXIM_ser\../../Headers/GPIO.h)(0x5EC4DE1F)
+I (Sources\MAXIM_ser\../command.h)(0x5EC4DE21)
+F (.\Sources\MAXIM_ser\max_serializer_data.c)(0x5EEB2F39)(-c --cpu Cortex-M0+ -g -O0 --apcs=interwork --split_sections-I"E:\Project\PSA\PSA2020 demo\Bridge\Dis_bridge2\RTE"-ID:\MDK\ARM\PACK\ARM\CMSIS\4.5.0\CMSIS\Include-ID:\MDK\ARM\PACK\Keil\Kinetis_KEAxx_DFP\1.3.0\Device\Include-D__UVISION_VERSION="521" -D_RTE_ -DSKEAZ128xxx4-o .\objects\max_serializer_data.o --omf_browse .\objects\max_serializer_data.crf --depend .\objects\max_serializer_data.d)
+I (Sources\MAXIM_ser\../../Headers/derivative.h)(0x5EC4DE1F)
 I (D:\MDK\ARM\PACK\Keil\Kinetis_KEAxx_DFP\1.3.0\Device\Include\SKEAZ1284.h)(0x585B7C0A)
 I (D:\MDK\ARM\ARMCC\include\stdint.h)(0x574E3E26)
 I (D:\MDK\ARM\PACK\ARM\CMSIS\4.5.0\CMSIS\Include\core_cm0plus.h)(0x5625B70C)
@@ -156,18 +156,18 @@ I (D:\MDK\ARM\PACK\ARM\CMSIS\4.5.0\CMSIS\Include\core_cmInstr.h)(0x5625A350)
 I (D:\MDK\ARM\PACK\ARM\CMSIS\4.5.0\CMSIS\Include\cmsis_armcc.h)(0x5625A350)
 I (D:\MDK\ARM\PACK\ARM\CMSIS\4.5.0\CMSIS\Include\core_cmFunc.h)(0x5625A350)
 I (D:\MDK\ARM\PACK\Keil\Kinetis_KEAxx_DFP\1.3.0\Device\Include\system_SKEAZ1284.h)(0x5754CC5A)
-I (Sources\MAXIM_ser\../../Headers/typedefs.h)(0x5B5AD99B)
-I (Sources\MAXIM_ser\../../Headers/../Sources/project_cfg.h)(0x5E8EB773)
+I (Sources\MAXIM_ser\../../Headers/typedefs.h)(0x5EC4DE1F)
+I (Sources\MAXIM_ser\../../Headers/../Sources/project_cfg.h)(0x5EC4DE21)
 I (D:\MDK\ARM\ARMCC\include\stdio.h)(0x5E6B3AC0)
-I (Sources\MAXIM_ser\../../Headers/GPIO.h)(0x5E9592DB)
-I (Sources\MAXIM_ser\../../Headers/I2C.h)(0x5B5AD99B)
-I (Sources\MAXIM_ser\../../Headers/nvic.h)(0x5B5AD99B)
-I (Sources\MAXIM_ser\../../Headers/uart.h)(0x5B5AD99B)
-I (Sources\MAXIM_ser\max_serializer_data.h)(0x5BFD21C4)
-I (Sources\MAXIM_ser\max_serializer_ctrl.h)(0x5B5AD99B)
-I (Sources\MAXIM_ser\../command.h)(0x5B5AD99B)
-F (.\Sources\MAXIM_ser\max_serializer_if.c)(0x5B5AD99B)(-c --cpu Cortex-M0+ -g -O0 --apcs=interwork --split_sections-I"E:\Project\PSA\PSA2020 demo\Bridge\Dis_bridge2\RTE"-ID:\MDK\ARM\PACK\ARM\CMSIS\4.5.0\CMSIS\Include-ID:\MDK\ARM\PACK\Keil\Kinetis_KEAxx_DFP\1.3.0\Device\Include-D__UVISION_VERSION="521" -D_RTE_ -DSKEAZ128xxx4-o .\objects\max_serializer_if.o --omf_browse .\objects\max_serializer_if.crf --depend .\objects\max_serializer_if.d)
-I (Sources\MAXIM_ser\../../Headers/derivative.h)(0x5B5AD99B)
+I (Sources\MAXIM_ser\../../Headers/GPIO.h)(0x5EC4DE1F)
+I (Sources\MAXIM_ser\../../Headers/I2C.h)(0x5EC4DE1F)
+I (Sources\MAXIM_ser\../../Headers/nvic.h)(0x5EC4DE1F)
+I (Sources\MAXIM_ser\../../Headers/uart.h)(0x5EC4DE1F)
+I (Sources\MAXIM_ser\max_serializer_data.h)(0x5EC4DE21)
+I (Sources\MAXIM_ser\max_serializer_ctrl.h)(0x5EC4DE21)
+I (Sources\MAXIM_ser\../command.h)(0x5EC4DE21)
+F (.\Sources\MAXIM_ser\max_serializer_if.c)(0x5EC4DE21)(-c --cpu Cortex-M0+ -g -O0 --apcs=interwork --split_sections-I"E:\Project\PSA\PSA2020 demo\Bridge\Dis_bridge2\RTE"-ID:\MDK\ARM\PACK\ARM\CMSIS\4.5.0\CMSIS\Include-ID:\MDK\ARM\PACK\Keil\Kinetis_KEAxx_DFP\1.3.0\Device\Include-D__UVISION_VERSION="521" -D_RTE_ -DSKEAZ128xxx4-o .\objects\max_serializer_if.o --omf_browse .\objects\max_serializer_if.crf --depend .\objects\max_serializer_if.d)
+I (Sources\MAXIM_ser\../../Headers/derivative.h)(0x5EC4DE1F)
 I (D:\MDK\ARM\PACK\Keil\Kinetis_KEAxx_DFP\1.3.0\Device\Include\SKEAZ1284.h)(0x585B7C0A)
 I (D:\MDK\ARM\ARMCC\include\stdint.h)(0x574E3E26)
 I (D:\MDK\ARM\PACK\ARM\CMSIS\4.5.0\CMSIS\Include\core_cm0plus.h)(0x5625B70C)
@@ -175,14 +175,14 @@ I (D:\MDK\ARM\PACK\ARM\CMSIS\4.5.0\CMSIS\Include\core_cmInstr.h)(0x5625A350)
 I (D:\MDK\ARM\PACK\ARM\CMSIS\4.5.0\CMSIS\Include\cmsis_armcc.h)(0x5625A350)
 I (D:\MDK\ARM\PACK\ARM\CMSIS\4.5.0\CMSIS\Include\core_cmFunc.h)(0x5625A350)
 I (D:\MDK\ARM\PACK\Keil\Kinetis_KEAxx_DFP\1.3.0\Device\Include\system_SKEAZ1284.h)(0x5754CC5A)
-I (Sources\MAXIM_ser\../../Headers/typedefs.h)(0x5B5AD99B)
-I (Sources\MAXIM_ser\../../Headers/../Sources/project_cfg.h)(0x5E8EB773)
-I (Sources\MAXIM_ser\max_serializer_if.h)(0x5B5AD99B)
-I (Sources\MAXIM_ser\max_serializer_ctrl.h)(0x5B5AD99B)
-I (Sources\MAXIM_ser\../APP_Communicate/APP_COMM_if.h)(0x5E8D8CF7)
-F (.\Headers\uart.c)(0x5B5AD99B)(-c --cpu Cortex-M0+ -g -O0 --apcs=interwork --split_sections-I"E:\Project\PSA\PSA2020 demo\Bridge\Dis_bridge2\RTE"-ID:\MDK\ARM\PACK\ARM\CMSIS\4.5.0\CMSIS\Include-ID:\MDK\ARM\PACK\Keil\Kinetis_KEAxx_DFP\1.3.0\Device\Include-D__UVISION_VERSION="521" -D_RTE_ -DSKEAZ128xxx4-o .\objects\uart.o --omf_browse .\objects\uart.crf --depend .\objects\uart.d)
-I (Headers\uart.h)(0x5B5AD99B)
-I (Headers\derivative.h)(0x5B5AD99B)
+I (Sources\MAXIM_ser\../../Headers/typedefs.h)(0x5EC4DE1F)
+I (Sources\MAXIM_ser\../../Headers/../Sources/project_cfg.h)(0x5EC4DE21)
+I (Sources\MAXIM_ser\max_serializer_if.h)(0x5EC4DE21)
+I (Sources\MAXIM_ser\max_serializer_ctrl.h)(0x5EC4DE21)
+I (Sources\MAXIM_ser\../APP_Communicate/APP_COMM_if.h)(0x5EC4DE21)
+F (.\Headers\uart.c)(0x5EC4DE1F)(-c --cpu Cortex-M0+ -g -O0 --apcs=interwork --split_sections-I"E:\Project\PSA\PSA2020 demo\Bridge\Dis_bridge2\RTE"-ID:\MDK\ARM\PACK\ARM\CMSIS\4.5.0\CMSIS\Include-ID:\MDK\ARM\PACK\Keil\Kinetis_KEAxx_DFP\1.3.0\Device\Include-D__UVISION_VERSION="521" -D_RTE_ -DSKEAZ128xxx4-o .\objects\uart.o --omf_browse .\objects\uart.crf --depend .\objects\uart.d)
+I (Headers\uart.h)(0x5EC4DE1F)
+I (Headers\derivative.h)(0x5EC4DE1F)
 I (D:\MDK\ARM\PACK\Keil\Kinetis_KEAxx_DFP\1.3.0\Device\Include\SKEAZ1284.h)(0x585B7C0A)
 I (D:\MDK\ARM\ARMCC\include\stdint.h)(0x574E3E26)
 I (D:\MDK\ARM\PACK\ARM\CMSIS\4.5.0\CMSIS\Include\core_cm0plus.h)(0x5625B70C)
@@ -190,12 +190,12 @@ I (D:\MDK\ARM\PACK\ARM\CMSIS\4.5.0\CMSIS\Include\core_cmInstr.h)(0x5625A350)
 I (D:\MDK\ARM\PACK\ARM\CMSIS\4.5.0\CMSIS\Include\cmsis_armcc.h)(0x5625A350)
 I (D:\MDK\ARM\PACK\ARM\CMSIS\4.5.0\CMSIS\Include\core_cmFunc.h)(0x5625A350)
 I (D:\MDK\ARM\PACK\Keil\Kinetis_KEAxx_DFP\1.3.0\Device\Include\system_SKEAZ1284.h)(0x5754CC5A)
-I (Headers\typedefs.h)(0x5B5AD99B)
-I (Headers\../Sources/project_cfg.h)(0x5E8EB773)
-I (Headers\nvic.h)(0x5B5AD99B)
-I (Headers\ics.h)(0x5B5AD99B)
-F (.\Sources\TI_ser\ti_serializer_ctrl.c)(0x5C3714B6)(-c --cpu Cortex-M0+ -g -O0 --apcs=interwork --split_sections-I"E:\Project\PSA\PSA2020 demo\Bridge\Dis_bridge2\RTE"-ID:\MDK\ARM\PACK\ARM\CMSIS\4.5.0\CMSIS\Include-ID:\MDK\ARM\PACK\Keil\Kinetis_KEAxx_DFP\1.3.0\Device\Include-D__UVISION_VERSION="521" -D_RTE_ -DSKEAZ128xxx4-o .\objects\ti_serializer_ctrl.o --omf_browse .\objects\ti_serializer_ctrl.crf --depend .\objects\ti_serializer_ctrl.d)
-I (Sources\TI_ser\../../Headers/derivative.h)(0x5B5AD99B)
+I (Headers\typedefs.h)(0x5EC4DE1F)
+I (Headers\../Sources/project_cfg.h)(0x5EC4DE21)
+I (Headers\nvic.h)(0x5EC4DE1F)
+I (Headers\ics.h)(0x5EC4DE1F)
+F (.\Sources\TI_ser\ti_serializer_ctrl.c)(0x5EC4DE21)(-c --cpu Cortex-M0+ -g -O0 --apcs=interwork --split_sections-I"E:\Project\PSA\PSA2020 demo\Bridge\Dis_bridge2\RTE"-ID:\MDK\ARM\PACK\ARM\CMSIS\4.5.0\CMSIS\Include-ID:\MDK\ARM\PACK\Keil\Kinetis_KEAxx_DFP\1.3.0\Device\Include-D__UVISION_VERSION="521" -D_RTE_ -DSKEAZ128xxx4-o .\objects\ti_serializer_ctrl.o --omf_browse .\objects\ti_serializer_ctrl.crf --depend .\objects\ti_serializer_ctrl.d)
+I (Sources\TI_ser\../../Headers/derivative.h)(0x5EC4DE1F)
 I (D:\MDK\ARM\PACK\Keil\Kinetis_KEAxx_DFP\1.3.0\Device\Include\SKEAZ1284.h)(0x585B7C0A)
 I (D:\MDK\ARM\ARMCC\include\stdint.h)(0x574E3E26)
 I (D:\MDK\ARM\PACK\ARM\CMSIS\4.5.0\CMSIS\Include\core_cm0plus.h)(0x5625B70C)
@@ -203,10 +203,10 @@ I (D:\MDK\ARM\PACK\ARM\CMSIS\4.5.0\CMSIS\Include\core_cmInstr.h)(0x5625A350)
 I (D:\MDK\ARM\PACK\ARM\CMSIS\4.5.0\CMSIS\Include\cmsis_armcc.h)(0x5625A350)
 I (D:\MDK\ARM\PACK\ARM\CMSIS\4.5.0\CMSIS\Include\core_cmFunc.h)(0x5625A350)
 I (D:\MDK\ARM\PACK\Keil\Kinetis_KEAxx_DFP\1.3.0\Device\Include\system_SKEAZ1284.h)(0x5754CC5A)
-I (Sources\TI_ser\../../Headers/typedefs.h)(0x5B5AD99B)
-I (Sources\TI_ser\../../Headers/../Sources/project_cfg.h)(0x5E8EB773)
-F (.\Sources\TI_ser\ti_serializer_data.c)(0x5C371888)(-c --cpu Cortex-M0+ -g -O0 --apcs=interwork --split_sections-I"E:\Project\PSA\PSA2020 demo\Bridge\Dis_bridge2\RTE"-ID:\MDK\ARM\PACK\ARM\CMSIS\4.5.0\CMSIS\Include-ID:\MDK\ARM\PACK\Keil\Kinetis_KEAxx_DFP\1.3.0\Device\Include-D__UVISION_VERSION="521" -D_RTE_ -DSKEAZ128xxx4-o .\objects\ti_serializer_data.o --omf_browse .\objects\ti_serializer_data.crf --depend .\objects\ti_serializer_data.d)
-I (Sources\TI_ser\../../Headers/derivative.h)(0x5B5AD99B)
+I (Sources\TI_ser\../../Headers/typedefs.h)(0x5EC4DE1F)
+I (Sources\TI_ser\../../Headers/../Sources/project_cfg.h)(0x5EC4DE21)
+F (.\Sources\TI_ser\ti_serializer_data.c)(0x5EC4DE21)(-c --cpu Cortex-M0+ -g -O0 --apcs=interwork --split_sections-I"E:\Project\PSA\PSA2020 demo\Bridge\Dis_bridge2\RTE"-ID:\MDK\ARM\PACK\ARM\CMSIS\4.5.0\CMSIS\Include-ID:\MDK\ARM\PACK\Keil\Kinetis_KEAxx_DFP\1.3.0\Device\Include-D__UVISION_VERSION="521" -D_RTE_ -DSKEAZ128xxx4-o .\objects\ti_serializer_data.o --omf_browse .\objects\ti_serializer_data.crf --depend .\objects\ti_serializer_data.d)
+I (Sources\TI_ser\../../Headers/derivative.h)(0x5EC4DE1F)
 I (D:\MDK\ARM\PACK\Keil\Kinetis_KEAxx_DFP\1.3.0\Device\Include\SKEAZ1284.h)(0x585B7C0A)
 I (D:\MDK\ARM\ARMCC\include\stdint.h)(0x574E3E26)
 I (D:\MDK\ARM\PACK\ARM\CMSIS\4.5.0\CMSIS\Include\core_cm0plus.h)(0x5625B70C)
@@ -214,10 +214,10 @@ I (D:\MDK\ARM\PACK\ARM\CMSIS\4.5.0\CMSIS\Include\core_cmInstr.h)(0x5625A350)
 I (D:\MDK\ARM\PACK\ARM\CMSIS\4.5.0\CMSIS\Include\cmsis_armcc.h)(0x5625A350)
 I (D:\MDK\ARM\PACK\ARM\CMSIS\4.5.0\CMSIS\Include\core_cmFunc.h)(0x5625A350)
 I (D:\MDK\ARM\PACK\Keil\Kinetis_KEAxx_DFP\1.3.0\Device\Include\system_SKEAZ1284.h)(0x5754CC5A)
-I (Sources\TI_ser\../../Headers/typedefs.h)(0x5B5AD99B)
-I (Sources\TI_ser\../../Headers/../Sources/project_cfg.h)(0x5E8EB773)
-F (.\Sources\TI_ser\ti_serializer_if.c)(0x5B9212B2)(-c --cpu Cortex-M0+ -g -O0 --apcs=interwork --split_sections-I"E:\Project\PSA\PSA2020 demo\Bridge\Dis_bridge2\RTE"-ID:\MDK\ARM\PACK\ARM\CMSIS\4.5.0\CMSIS\Include-ID:\MDK\ARM\PACK\Keil\Kinetis_KEAxx_DFP\1.3.0\Device\Include-D__UVISION_VERSION="521" -D_RTE_ -DSKEAZ128xxx4-o .\objects\ti_serializer_if.o --omf_browse .\objects\ti_serializer_if.crf --depend .\objects\ti_serializer_if.d)
-I (Sources\TI_ser\../../Headers/derivative.h)(0x5B5AD99B)
+I (Sources\TI_ser\../../Headers/typedefs.h)(0x5EC4DE1F)
+I (Sources\TI_ser\../../Headers/../Sources/project_cfg.h)(0x5EC4DE21)
+F (.\Sources\TI_ser\ti_serializer_if.c)(0x5EC4DE21)(-c --cpu Cortex-M0+ -g -O0 --apcs=interwork --split_sections-I"E:\Project\PSA\PSA2020 demo\Bridge\Dis_bridge2\RTE"-ID:\MDK\ARM\PACK\ARM\CMSIS\4.5.0\CMSIS\Include-ID:\MDK\ARM\PACK\Keil\Kinetis_KEAxx_DFP\1.3.0\Device\Include-D__UVISION_VERSION="521" -D_RTE_ -DSKEAZ128xxx4-o .\objects\ti_serializer_if.o --omf_browse .\objects\ti_serializer_if.crf --depend .\objects\ti_serializer_if.d)
+I (Sources\TI_ser\../../Headers/derivative.h)(0x5EC4DE1F)
 I (D:\MDK\ARM\PACK\Keil\Kinetis_KEAxx_DFP\1.3.0\Device\Include\SKEAZ1284.h)(0x585B7C0A)
 I (D:\MDK\ARM\ARMCC\include\stdint.h)(0x574E3E26)
 I (D:\MDK\ARM\PACK\ARM\CMSIS\4.5.0\CMSIS\Include\core_cm0plus.h)(0x5625B70C)
@@ -225,10 +225,10 @@ I (D:\MDK\ARM\PACK\ARM\CMSIS\4.5.0\CMSIS\Include\core_cmInstr.h)(0x5625A350)
 I (D:\MDK\ARM\PACK\ARM\CMSIS\4.5.0\CMSIS\Include\cmsis_armcc.h)(0x5625A350)
 I (D:\MDK\ARM\PACK\ARM\CMSIS\4.5.0\CMSIS\Include\core_cmFunc.h)(0x5625A350)
 I (D:\MDK\ARM\PACK\Keil\Kinetis_KEAxx_DFP\1.3.0\Device\Include\system_SKEAZ1284.h)(0x5754CC5A)
-I (Sources\TI_ser\../../Headers/typedefs.h)(0x5B5AD99B)
-I (Sources\TI_ser\../../Headers/../Sources/project_cfg.h)(0x5E8EB773)
-F (.\Sources\TI_ser\atmel_1189.c)(0x5B5AD99B)(-c --cpu Cortex-M0+ -g -O0 --apcs=interwork --split_sections-I"E:\Project\PSA\PSA2020 demo\Bridge\Dis_bridge2\RTE"-ID:\MDK\ARM\PACK\ARM\CMSIS\4.5.0\CMSIS\Include-ID:\MDK\ARM\PACK\Keil\Kinetis_KEAxx_DFP\1.3.0\Device\Include-D__UVISION_VERSION="521" -D_RTE_ -DSKEAZ128xxx4-o .\objects\atmel_1189.o --omf_browse .\objects\atmel_1189.crf --depend .\objects\atmel_1189.d)
-I (Sources\TI_ser\../../Headers/derivative.h)(0x5B5AD99B)
+I (Sources\TI_ser\../../Headers/typedefs.h)(0x5EC4DE1F)
+I (Sources\TI_ser\../../Headers/../Sources/project_cfg.h)(0x5EC4DE21)
+F (.\Sources\TI_ser\atmel_1189.c)(0x5EC4DE21)(-c --cpu Cortex-M0+ -g -O0 --apcs=interwork --split_sections-I"E:\Project\PSA\PSA2020 demo\Bridge\Dis_bridge2\RTE"-ID:\MDK\ARM\PACK\ARM\CMSIS\4.5.0\CMSIS\Include-ID:\MDK\ARM\PACK\Keil\Kinetis_KEAxx_DFP\1.3.0\Device\Include-D__UVISION_VERSION="521" -D_RTE_ -DSKEAZ128xxx4-o .\objects\atmel_1189.o --omf_browse .\objects\atmel_1189.crf --depend .\objects\atmel_1189.d)
+I (Sources\TI_ser\../../Headers/derivative.h)(0x5EC4DE1F)
 I (D:\MDK\ARM\PACK\Keil\Kinetis_KEAxx_DFP\1.3.0\Device\Include\SKEAZ1284.h)(0x585B7C0A)
 I (D:\MDK\ARM\ARMCC\include\stdint.h)(0x574E3E26)
 I (D:\MDK\ARM\PACK\ARM\CMSIS\4.5.0\CMSIS\Include\core_cm0plus.h)(0x5625B70C)
@@ -236,12 +236,12 @@ I (D:\MDK\ARM\PACK\ARM\CMSIS\4.5.0\CMSIS\Include\core_cmInstr.h)(0x5625A350)
 I (D:\MDK\ARM\PACK\ARM\CMSIS\4.5.0\CMSIS\Include\cmsis_armcc.h)(0x5625A350)
 I (D:\MDK\ARM\PACK\ARM\CMSIS\4.5.0\CMSIS\Include\core_cmFunc.h)(0x5625A350)
 I (D:\MDK\ARM\PACK\Keil\Kinetis_KEAxx_DFP\1.3.0\Device\Include\system_SKEAZ1284.h)(0x5754CC5A)
-I (Sources\TI_ser\../../Headers/typedefs.h)(0x5B5AD99B)
-I (Sources\TI_ser\../../Headers/../Sources/project_cfg.h)(0x5E8EB773)
-F (.\Sources\APP_Communicate\APP_COMM_data.c)(0x5EA7F7FB)(-c --cpu Cortex-M0+ -g -O0 --apcs=interwork --split_sections-I"E:\Project\PSA\PSA2020 demo\Bridge\Dis_bridge2\RTE"-ID:\MDK\ARM\PACK\ARM\CMSIS\4.5.0\CMSIS\Include-ID:\MDK\ARM\PACK\Keil\Kinetis_KEAxx_DFP\1.3.0\Device\Include-D__UVISION_VERSION="521" -D_RTE_ -DSKEAZ128xxx4-o .\objects\app_comm_data.o --omf_browse .\objects\app_comm_data.crf --depend .\objects\app_comm_data.d)
+I (Sources\TI_ser\../../Headers/typedefs.h)(0x5EC4DE1F)
+I (Sources\TI_ser\../../Headers/../Sources/project_cfg.h)(0x5EC4DE21)
+F (.\Sources\APP_Communicate\APP_COMM_data.c)(0x5EC4DE21)(-c --cpu Cortex-M0+ -g -O0 --apcs=interwork --split_sections-I"E:\Project\PSA\PSA2020 demo\Bridge\Dis_bridge2\RTE"-ID:\MDK\ARM\PACK\ARM\CMSIS\4.5.0\CMSIS\Include-ID:\MDK\ARM\PACK\Keil\Kinetis_KEAxx_DFP\1.3.0\Device\Include-D__UVISION_VERSION="521" -D_RTE_ -DSKEAZ128xxx4-o .\objects\app_comm_data.o --omf_browse .\objects\app_comm_data.crf --depend .\objects\app_comm_data.d)
 I (D:\MDK\ARM\ARMCC\include\string.h)(0x574E3E26)
-I (Sources\APP_Communicate\APP_COMM_data.h)(0x5E8D9185)
-I (Sources\APP_Communicate\../../Headers/derivative.h)(0x5B5AD99B)
+I (Sources\APP_Communicate\APP_COMM_data.h)(0x5EC4DE21)
+I (Sources\APP_Communicate\../../Headers/derivative.h)(0x5EC4DE1F)
 I (D:\MDK\ARM\PACK\Keil\Kinetis_KEAxx_DFP\1.3.0\Device\Include\SKEAZ1284.h)(0x585B7C0A)
 I (D:\MDK\ARM\ARMCC\include\stdint.h)(0x574E3E26)
 I (D:\MDK\ARM\PACK\ARM\CMSIS\4.5.0\CMSIS\Include\core_cm0plus.h)(0x5625B70C)
@@ -249,14 +249,14 @@ I (D:\MDK\ARM\PACK\ARM\CMSIS\4.5.0\CMSIS\Include\core_cmInstr.h)(0x5625A350)
 I (D:\MDK\ARM\PACK\ARM\CMSIS\4.5.0\CMSIS\Include\cmsis_armcc.h)(0x5625A350)
 I (D:\MDK\ARM\PACK\ARM\CMSIS\4.5.0\CMSIS\Include\core_cmFunc.h)(0x5625A350)
 I (D:\MDK\ARM\PACK\Keil\Kinetis_KEAxx_DFP\1.3.0\Device\Include\system_SKEAZ1284.h)(0x5754CC5A)
-I (Sources\APP_Communicate\../../Headers/typedefs.h)(0x5B5AD99B)
-I (Sources\APP_Communicate\../../Headers/../Sources/project_cfg.h)(0x5E8EB773)
-I (Sources\APP_Communicate\../../Headers/GPIO.h)(0x5E9592DB)
-I (Sources\APP_Communicate\../../Headers/uart.h)(0x5B5AD99B)
-I (Sources\APP_Communicate\../../Headers/nvic.h)(0x5B5AD99B)
-F (.\Sources\APP_Communicate\APP_COMM_if.c)(0x5E8D9189)(-c --cpu Cortex-M0+ -g -O0 --apcs=interwork --split_sections-I"E:\Project\PSA\PSA2020 demo\Bridge\Dis_bridge2\RTE"-ID:\MDK\ARM\PACK\ARM\CMSIS\4.5.0\CMSIS\Include-ID:\MDK\ARM\PACK\Keil\Kinetis_KEAxx_DFP\1.3.0\Device\Include-D__UVISION_VERSION="521" -D_RTE_ -DSKEAZ128xxx4-o .\objects\app_comm_if.o --omf_browse .\objects\app_comm_if.crf --depend .\objects\app_comm_if.d)
-I (Sources\APP_Communicate\APP_COMM_if.h)(0x5E8D8CF7)
-I (Sources\APP_Communicate\../../Headers/derivative.h)(0x5B5AD99B)
+I (Sources\APP_Communicate\../../Headers/typedefs.h)(0x5EC4DE1F)
+I (Sources\APP_Communicate\../../Headers/../Sources/project_cfg.h)(0x5EC4DE21)
+I (Sources\APP_Communicate\../../Headers/GPIO.h)(0x5EC4DE1F)
+I (Sources\APP_Communicate\../../Headers/uart.h)(0x5EC4DE1F)
+I (Sources\APP_Communicate\../../Headers/nvic.h)(0x5EC4DE1F)
+F (.\Sources\APP_Communicate\APP_COMM_if.c)(0x5EC4DE21)(-c --cpu Cortex-M0+ -g -O0 --apcs=interwork --split_sections-I"E:\Project\PSA\PSA2020 demo\Bridge\Dis_bridge2\RTE"-ID:\MDK\ARM\PACK\ARM\CMSIS\4.5.0\CMSIS\Include-ID:\MDK\ARM\PACK\Keil\Kinetis_KEAxx_DFP\1.3.0\Device\Include-D__UVISION_VERSION="521" -D_RTE_ -DSKEAZ128xxx4-o .\objects\app_comm_if.o --omf_browse .\objects\app_comm_if.crf --depend .\objects\app_comm_if.d)
+I (Sources\APP_Communicate\APP_COMM_if.h)(0x5EC4DE21)
+I (Sources\APP_Communicate\../../Headers/derivative.h)(0x5EC4DE1F)
 I (D:\MDK\ARM\PACK\Keil\Kinetis_KEAxx_DFP\1.3.0\Device\Include\SKEAZ1284.h)(0x585B7C0A)
 I (D:\MDK\ARM\ARMCC\include\stdint.h)(0x574E3E26)
 I (D:\MDK\ARM\PACK\ARM\CMSIS\4.5.0\CMSIS\Include\core_cm0plus.h)(0x5625B70C)
@@ -264,12 +264,12 @@ I (D:\MDK\ARM\PACK\ARM\CMSIS\4.5.0\CMSIS\Include\core_cmInstr.h)(0x5625A350)
 I (D:\MDK\ARM\PACK\ARM\CMSIS\4.5.0\CMSIS\Include\cmsis_armcc.h)(0x5625A350)
 I (D:\MDK\ARM\PACK\ARM\CMSIS\4.5.0\CMSIS\Include\core_cmFunc.h)(0x5625A350)
 I (D:\MDK\ARM\PACK\Keil\Kinetis_KEAxx_DFP\1.3.0\Device\Include\system_SKEAZ1284.h)(0x5754CC5A)
-I (Sources\APP_Communicate\../../Headers/typedefs.h)(0x5B5AD99B)
-I (Sources\APP_Communicate\../../Headers/../Sources/project_cfg.h)(0x5E8EB773)
-I (Sources\APP_Communicate\APP_COMM_data.h)(0x5E8D9185)
-F (.\Sources\serializer_select.c)(0x5B5AD99B)(-c --cpu Cortex-M0+ -g -O0 --apcs=interwork --split_sections-I"E:\Project\PSA\PSA2020 demo\Bridge\Dis_bridge2\RTE"-ID:\MDK\ARM\PACK\ARM\CMSIS\4.5.0\CMSIS\Include-ID:\MDK\ARM\PACK\Keil\Kinetis_KEAxx_DFP\1.3.0\Device\Include-D__UVISION_VERSION="521" -D_RTE_ -DSKEAZ128xxx4-o .\objects\serializer_select.o --omf_browse .\objects\serializer_select.crf --depend .\objects\serializer_select.d)
-I (Sources\serializer_select.h)(0x5B5AD99B)
-I (Sources\../Headers/derivative.h)(0x5B5AD99B)
+I (Sources\APP_Communicate\../../Headers/typedefs.h)(0x5EC4DE1F)
+I (Sources\APP_Communicate\../../Headers/../Sources/project_cfg.h)(0x5EC4DE21)
+I (Sources\APP_Communicate\APP_COMM_data.h)(0x5EC4DE21)
+F (.\Sources\serializer_select.c)(0x5EC4DE21)(-c --cpu Cortex-M0+ -g -O0 --apcs=interwork --split_sections-I"E:\Project\PSA\PSA2020 demo\Bridge\Dis_bridge2\RTE"-ID:\MDK\ARM\PACK\ARM\CMSIS\4.5.0\CMSIS\Include-ID:\MDK\ARM\PACK\Keil\Kinetis_KEAxx_DFP\1.3.0\Device\Include-D__UVISION_VERSION="521" -D_RTE_ -DSKEAZ128xxx4-o .\objects\serializer_select.o --omf_browse .\objects\serializer_select.crf --depend .\objects\serializer_select.d)
+I (Sources\serializer_select.h)(0x5EC4DE21)
+I (Sources\../Headers/derivative.h)(0x5EC4DE1F)
 I (D:\MDK\ARM\PACK\Keil\Kinetis_KEAxx_DFP\1.3.0\Device\Include\SKEAZ1284.h)(0x585B7C0A)
 I (D:\MDK\ARM\ARMCC\include\stdint.h)(0x574E3E26)
 I (D:\MDK\ARM\PACK\ARM\CMSIS\4.5.0\CMSIS\Include\core_cm0plus.h)(0x5625B70C)
@@ -277,11 +277,11 @@ I (D:\MDK\ARM\PACK\ARM\CMSIS\4.5.0\CMSIS\Include\core_cmInstr.h)(0x5625A350)
 I (D:\MDK\ARM\PACK\ARM\CMSIS\4.5.0\CMSIS\Include\cmsis_armcc.h)(0x5625A350)
 I (D:\MDK\ARM\PACK\ARM\CMSIS\4.5.0\CMSIS\Include\core_cmFunc.h)(0x5625A350)
 I (D:\MDK\ARM\PACK\Keil\Kinetis_KEAxx_DFP\1.3.0\Device\Include\system_SKEAZ1284.h)(0x5754CC5A)
-I (Sources\../Headers/typedefs.h)(0x5B5AD99B)
-I (Sources\../Headers/../Sources/project_cfg.h)(0x5E8EB773)
-I (Sources\../Headers/GPIO.h)(0x5E9592DB)
-F (RTE\Device\SKEAZ128xxx4\startup_SKEAZ1284.s)(0x5C25DEAA)(--cpu Cortex-M0+ -g --apcs=interwork -I"E:\Project\PSA\PSA2020 demo\Bridge\Dis_bridge2\RTE"-ID:\MDK\ARM\PACK\ARM\CMSIS\4.5.0\CMSIS\Include-ID:\MDK\ARM\PACK\Keil\Kinetis_KEAxx_DFP\1.3.0\Device\Include--pd "__UVISION_VERSION SETA 521" --pd "_RTE_ SETA 1" --pd "SKEAZ128xxx4 SETA 1"--list .\listings\startup_skeaz1284.lst --xref -o .\objects\startup_skeaz1284.o --depend .\objects\startup_skeaz1284.d)
-F (RTE\Device\SKEAZ128xxx4\system_SKEAZ1284.c)(0x5B5AD99B)(-c --cpu Cortex-M0+ -g -O0 --apcs=interwork --split_sections-I"E:\Project\PSA\PSA2020 demo\Bridge\Dis_bridge2\RTE"-ID:\MDK\ARM\PACK\ARM\CMSIS\4.5.0\CMSIS\Include-ID:\MDK\ARM\PACK\Keil\Kinetis_KEAxx_DFP\1.3.0\Device\Include-D__UVISION_VERSION="521" -D_RTE_ -DSKEAZ128xxx4-o .\objects\system_skeaz1284.o --omf_browse .\objects\system_skeaz1284.crf --depend .\objects\system_skeaz1284.d)
+I (Sources\../Headers/typedefs.h)(0x5EC4DE1F)
+I (Sources\../Headers/../Sources/project_cfg.h)(0x5EC4DE21)
+I (Sources\../Headers/GPIO.h)(0x5EC4DE1F)
+F (RTE\Device\SKEAZ128xxx4\startup_SKEAZ1284.s)(0x5EC4DE20)(--cpu Cortex-M0+ -g --apcs=interwork -I"E:\Project\PSA\PSA2020 demo\Bridge\Dis_bridge2\RTE"-ID:\MDK\ARM\PACK\ARM\CMSIS\4.5.0\CMSIS\Include-ID:\MDK\ARM\PACK\Keil\Kinetis_KEAxx_DFP\1.3.0\Device\Include--pd "__UVISION_VERSION SETA 521" --pd "_RTE_ SETA 1" --pd "SKEAZ128xxx4 SETA 1"--list .\listings\startup_skeaz1284.lst --xref -o .\objects\startup_skeaz1284.o --depend .\objects\startup_skeaz1284.d)
+F (RTE\Device\SKEAZ128xxx4\system_SKEAZ1284.c)(0x5EC4DE20)(-c --cpu Cortex-M0+ -g -O0 --apcs=interwork --split_sections-I"E:\Project\PSA\PSA2020 demo\Bridge\Dis_bridge2\RTE"-ID:\MDK\ARM\PACK\ARM\CMSIS\4.5.0\CMSIS\Include-ID:\MDK\ARM\PACK\Keil\Kinetis_KEAxx_DFP\1.3.0\Device\Include-D__UVISION_VERSION="521" -D_RTE_ -DSKEAZ128xxx4-o .\objects\system_skeaz1284.o --omf_browse .\objects\system_skeaz1284.crf --depend .\objects\system_skeaz1284.d)
 I (D:\MDK\ARM\ARMCC\include\stdint.h)(0x574E3E26)
 I (D:\MDK\ARM\PACK\Keil\Kinetis_KEAxx_DFP\1.3.0\Device\Include\SKEAZ1284.h)(0x585B7C0A)
 I (D:\MDK\ARM\PACK\ARM\CMSIS\4.5.0\CMSIS\Include\core_cm0plus.h)(0x5625B70C)
